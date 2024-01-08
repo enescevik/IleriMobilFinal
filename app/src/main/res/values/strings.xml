@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">İleri Mobil Programlama</string>
+    <string name="loadingText">Lütfen bekleyiniz…</string>
+    <string name="search_title">Ara</string>
+    <string name="sort_title">Sırala</string>
+    <string name="exit_dialog_message">Uygulama kapatılsın mı?</string>
+    <string name="list_type_title">Listeleme türü</string>
+    <string name="sort_dialog_message">Sıralama Türü</string>
+    <string name="sort_name_asc">İsme göre artan</string>
+    <string name="sort_name_desc">İsme göre azalan</string>
+    <string name="sort_id_asc">Id\' ye göre artan</string>
+    <string name="sort_id_desc">Id\' ye göre azalan</string>
+    <string name="no_data_message">İnternetten ve cihazınızdan veri getirilemedi. Lütfen internet bağlantınızı kontrol edin!</string>
+    <string name="retry_connection">Yeninden Bağlanmayı Dene</string>
+    <string name="search_hint">Ara…</string>
+    <string name="movie_plot">Konusu:</string>
+</resources>
